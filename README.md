@@ -19,16 +19,16 @@ At the moment only LostFilm.TV. Allows automatic download of releases via RSS.
 
 # Install
 * Download the latest version of "lostfilm.host" from the [releases](https://github.com/evd/synology-hosts/releases) page
-* Go to "Settings" of Download Station, then to the "File hosting" section, then click "Add" and select the downloaded file, confirm the addition.
+* Go to "Settings" of Download Station, then to the "File Hosting" section, then click "Add" and select the downloaded file, confirm the addition.
 * In the editing, specify the "Username" and "Password", you can get them on the website, namely:
     - "Username" can be found in the settings (My ID, format ХХХХХХ)
     - "Password" in the opened window (quality selection) when downloading any release by clicking on uses at the bottom left next to the RSS icon.
-* In "RSS Channels" add "http://insearch.site/rssdd.xml" (current URL in the quality selection window when downloading any release)
+* In "RSS Feeds" add "http://insearch.site/rssdd.xml" (current URL in the quality selection window when downloading any release)
 * For automatic downloading, add to the download filter for each series:
-    - Title - Any
+    - Name - Any
     - Matches - Stranger Things*1080p (download only in 1080p quality)
     - Does not match - E999 (do not download when the entire season is released)
-    - Analysis using regular expressions - by default
+    - Parse with regular expressions - by default
     
 # Build
 Run build.sh script
