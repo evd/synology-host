@@ -6,7 +6,7 @@
 * Зайти в "Настройки" Download Station, затем в раздел "Хостинг файлов", далее нажать "Добавить" и выбрать скачанный файл, подтвердить добавление.
 * В редактировании указать "Имя пользователя" и "Пароль", получить их можно на сайте, а именно:
     - "Имя пользователя" можно узнать в настройках (Мой ID, формат ХХХХХХ)
-    - "Пароль" в открывшемся окне (выбор качества) при скачивании любого релиза кликнув по usess слева внизу рядом со значком RSS.
+    - "Пароль" в открывшемся окне (выбор качества) при скачивании любого релиза кликнув по "usess" слева внизу рядом со значком RSS.
 * В "Каналы RSS" добавить "http://insearch.site/rssdd.xml" (актуальный URL в окне выбора качества при скачивании любого релиза)
 * Для автоматиеского скачивания добавить в фильтр загрузки по каждому сериалу:
   - Название - Любое
@@ -22,7 +22,7 @@ At the moment only LostFilm.TV. Allows automatic download of releases via RSS.
 * Go to "Settings" of Download Station, then to the "File Hosting" section, then click "Add" and select the downloaded file, confirm the addition.
 * In the editing, specify the "Username" and "Password", you can get them on the website, namely:
     - "Username" can be found in the settings (My ID, format ХХХХХХ)
-    - "Password" in the opened window (quality selection) when downloading any release by clicking on uses at the bottom left next to the RSS icon.
+    - "Password" in the opened window (quality selection) when downloading any release by clicking on "usess" at the bottom left next to the RSS icon.
 * In "RSS Feeds" add "http://insearch.site/rssdd.xml" (current URL in the quality selection window when downloading any release)
 * For automatic downloading, add to the download filter for each series:
     - Name - Any
